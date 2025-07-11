@@ -1,0 +1,14 @@
+# Cache
+__pycache__
+
+# Configuration
+.idea
+.qodo
+
+# Environment
+.python-version
+
+# Jupyter
+.ipynb_checkpoints
+**/*.ipynb.layout
+.virtual_documents/

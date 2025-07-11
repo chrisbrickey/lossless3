@@ -12,6 +12,8 @@ a professional certification offered by Stanford University and DeepLeaning.AI.
 
 ## Requirements
 * Jupyter
+* Numpy
+* Matplotlib
 
 ## Environment 
 

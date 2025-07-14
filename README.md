@@ -5,7 +5,9 @@ This is course 3 of 3 from [Machine Learning Specialization](https://online.stan
 a professional certification offered by Stanford University and DeepLeaning.AI. 
 
 ## Projects & Features
-* TBD
+* Clustering
+* Anomaly Detection
+* Collaborative Filtering
 
 ## Build
 * Launch lab: `uv run --with jupyter jupyter lab`
@@ -14,9 +16,10 @@ a professional certification offered by Stanford University and DeepLeaning.AI.
 * Jupyter
 * Numpy
 * Matplotlib
+* TensorFlow
 
 ## Environment 
 
 ### UV environment and package manager
 * `uv init`
-* `uv add <package name>`
+* `uv add <package name>` or `uv add <package name>=='<version>'`

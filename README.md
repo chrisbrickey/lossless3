@@ -8,6 +8,7 @@ a professional certification offered by Stanford University and DeepLeaning.AI.
 * Clustering
 * Anomaly Detection
 * Collaborative Filtering
+* Content-based Filtering
 
 ## Build
 * Launch lab: `uv run --with jupyter jupyter lab`

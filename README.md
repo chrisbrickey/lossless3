@@ -9,6 +9,7 @@ a professional certification offered by Stanford University and DeepLeaning.AI.
 * Anomaly Detection
 * Collaborative Filtering
 * Content-based Filtering
+* Principal Component Analysis
 
 ## Build
 * Launch lab: `uv run --with jupyter jupyter lab`
@@ -16,8 +17,11 @@ a professional certification offered by Stanford University and DeepLeaning.AI.
 ## Requirements
 * Jupyter
 * Numpy
-* Matplotlib
 * TensorFlow
+* Visualization
+  * Matplotlib
+  * Plotly
+  * Bokeh
 
 ## Environment 
 

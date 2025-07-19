@@ -10,6 +10,7 @@ a professional certification offered by Stanford University and DeepLeaning.AI.
 * Collaborative Filtering
 * Content-based Filtering
 * Principal Component Analysis
+* Reinforcement Learning
 
 ## Build
 * Launch lab: `uv run --with jupyter jupyter lab`
@@ -18,6 +19,7 @@ a professional certification offered by Stanford University and DeepLeaning.AI.
 * Jupyter
 * Numpy
 * TensorFlow
+* [OpenAI's Gym library](https://www.gymlibrary.dev/)
 * Visualization
   * Matplotlib
   * Plotly
